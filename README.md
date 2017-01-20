@@ -22,7 +22,7 @@ $ yarn add rkgttr-consolepolyfill --dev
 ### Getting Started
 
 ```js
-import consolePolyfill from 'rkgttr-consolepolyfill';
+import 'rkgttr-consolepolyfill';
 ```
 
 or
